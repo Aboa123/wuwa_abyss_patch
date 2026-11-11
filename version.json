@@ -1,0 +1,10 @@
+{
+ "version": "2.0.2",
+ "parts": [
+  "game-2.0.2.pck.000",
+  "game-2.0.2.pck.001"
+ ],
+ "size": 88027696,
+ "part_size": 47185920,
+ "sha256": "20d1c13d2f55c897db4a005b8d7e9abe6cdf247f900ff59bc832aa3be71cab2b"
+}
